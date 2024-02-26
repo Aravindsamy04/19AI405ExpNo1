@@ -43,8 +43,7 @@
 
 
 ### program:
-DEVELOPED BY:ARAVIND SAMY.P
-REG NO:212222230011
+
 
 ```
 import random
